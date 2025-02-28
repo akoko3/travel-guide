@@ -63,7 +63,7 @@ function btc1(){
     document.getElementById('btp1').style.color = '#E0F4F9';
     document.getElementById('btn1').style.color = '#E0F4F9';
     document.getElementById('btp1').innerHTML = c1.locations();
-    document.getElementById('displayImage').src = 'adventure.jpg';
+    document.getElementById('displayImage').src = 'images/adventure.jpg';
 }
 
 function btc2(){
@@ -71,7 +71,7 @@ function btc2(){
     document.getElementById('btn2').style.backgroundColor = '#E6034A';
     document.body.style.backgroundColor = '#E6034A';
     document.getElementById('btp2').innerHTML = c2.locations();
-    document.getElementById('displayImage').src = 'FOOD.jpg';
+    document.getElementById('displayImage').src = 'images/FOOD.jpg';
 }
 
 function btc3(){
@@ -79,7 +79,7 @@ function btc3(){
     document.getElementById('btn3').style.backgroundColor = '#F7E7CE';
     document.body.style.backgroundColor = '#F7E7CE';
     document.getElementById('btp3').innerHTML = c3.locations();
-    document.getElementById('displayImage').src = 'luxury.jpg';
+    document.getElementById('displayImage').src = 'images/luxury.jpg';
 }
 
 function btc4(){
@@ -87,7 +87,7 @@ function btc4(){
     document.getElementById('btn4').style.backgroundColor = '#C5A253';
     document.body.style.backgroundColor = '#C5A253';
     document.getElementById('btp4').innerHTML = c4.locations();
-    document.getElementById('displayImage').src = 'cultural.jpg';
+    document.getElementById('displayImage').src = 'images/cultural.jpg';
 }
 
 function btc5(){
@@ -95,7 +95,7 @@ function btc5(){
     document.getElementById('btn5').style.backgroundColor = '#E12C2C';
     document.body.style.backgroundColor = '#E12C2C';
     document.getElementById('btp5').innerHTML = c5.locations();
-    document.getElementById('displayImage').src = 'festival.jpg';
+    document.getElementById('displayImage').src = 'images/festival.jpg';
 }
 
 function btc6(){
@@ -103,7 +103,7 @@ function btc6(){
     document.getElementById('btn6').style.backgroundColor = '#40E0D0';
     document.body.style.backgroundColor = '#40E0D0';
     document.getElementById('btp6').innerHTML = c6.locations();
-    document.getElementById('displayImage').src = 'beach.jpg';
+    document.getElementById('displayImage').src = 'images/beach.jpg';
 }
 
 function btc7(){
@@ -111,7 +111,7 @@ function btc7(){
     document.getElementById('btn7').style.backgroundColor = '#E0F7FA';
     document.body.style.backgroundColor = '#E0F7FA';
     document.getElementById('btp7').innerHTML = c7.locations();
-    document.getElementById('displayImage').src = 'winter.jpg';
+    document.getElementById('displayImage').src = 'images/winter.jpg';
 }
 
 function btc8(){
@@ -119,7 +119,7 @@ function btc8(){
     document.getElementById('btn8').style.backgroundColor = '#6B8E23';
     document.body.style.backgroundColor = '#6B8E23';
     document.getElementById('btp8').innerHTML = c8.locations();
-    document.getElementById('displayImage').src = 'wildlife.jpg';
+    document.getElementById('displayImage').src = 'images/wildlife.jpg';
 }
 
 function btc9(){
@@ -129,7 +129,7 @@ function btc9(){
     document.getElementById('btp9').style.color = '#F8F8FF';
     document.getElementById('btn9').style.color = '#F8F8FF';
     document.getElementById('btp9').innerHTML = c9.locations();
-    document.getElementById('displayImage').src = 'city life.jpg';
+    document.getElementById('displayImage').src = 'images/city life.jpg';
 }
 
 function btc10(){
@@ -144,6 +144,6 @@ function btc11(){
     document.getElementById('btn11').style.backgroundColor = '#6A0DAD';
     document.body.style.backgroundColor = '#6A0DAD';
     document.getElementById('btp11').innerHTML = c11.locations();
-    document.getElementById('displayImage').src = 'unusual.jpg';
+    document.getElementById('displayImage').src = 'images/unusual.jpg';
 
 }
